@@ -125,7 +125,16 @@ label {
 	border-radius: 5px;
     /* padding: 5px; */
     background-color: white;
-    font-size: 16px;
+	font-size: 16px;
+	float: right;
+}
+
+#add-button {
+	border-radius: 5px;
+	width: 100%;
+	background-color: hotpink;
+	color: white;
+	font-size: 16px;
 }
 
 /* Animate */
